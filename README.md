@@ -83,7 +83,7 @@ git clone https://github.com/your-username/titanic-survival-prediction.git
 pip install -r requirements.txt
 
 # Run the notebook
-jupyter notebook Titanic_Survival_Prediction.ipynb
+jupyter notebooks
 
 🎯 Conclusion
 
